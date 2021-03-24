@@ -293,4 +293,4 @@ async def Vorlesungsplan(ctx):
             await asyncio.sleep(WartezeitInSekunden([9, 35, 00]))
         
 
-client.run('ODE5NTI2NjA1MDcxODQzMzI5.YEn5oA.QsDWp7O-2WABKYn6M21vN2l36KQ')
+client.run('TOKEN_hier_einfuegen')
